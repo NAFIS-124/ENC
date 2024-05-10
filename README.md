@@ -1,4 +1,5 @@
 # ENC
+rm -rf ENC
 
 git clone https://github.com/NAFIS-124/ENC
 
